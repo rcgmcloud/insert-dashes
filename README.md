@@ -253,3 +253,4 @@ Use [Math.PI](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/
 ![js-functions](http://i.imgur.com/HmYgp37.jpg)
 
 After all your tests pass, practice calling functions by following the comments in `script.js`.
+# js-blog
